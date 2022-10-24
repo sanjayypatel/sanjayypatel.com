@@ -1,2 +1,16 @@
 theme: minima
 title: SYP
+author:
+    name: Sanjay Patel
+    email: sanjay.y.patel@gmail.com
+description: >
+  Systems Administrator specializing in macOS, Linux and automation.
+  
+show_excerpts: false
+
+minima:
+  date_format: "%b %-d, %Y"
+  social_links:
+    github: sanjayypatel
+    instagram: sanjayypatel
+    linkedin: sanjayypatel
