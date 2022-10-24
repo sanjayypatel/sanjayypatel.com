@@ -1,4 +1,5 @@
-## 
+## About
+Systems Administrator specializing in macOS, Linux and automation.
 
 ## macOS Administrator
 - Jamf Management
